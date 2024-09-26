@@ -1,0 +1,24 @@
+[submodule "src/amr_imu"]
+	path = src/amr_imu
+	url = https://github.com/XKHoshizora/amr_imu.git
+[submodule "src/amr_map"]
+	path = src/amr_map
+	url = https://github.com/XKHoshizora/amr_map.git
+[submodule "src/amr_navi"]
+	path = src/amr_navi
+	url = https://github.com/XKHoshizora/amr_navi.git
+[submodule "src/amr_slam"]
+	path = src/amr_slam
+	url = https://github.com/XKHoshizora/amr_slam.git
+[submodule "src/rplidar_ros"]
+	path = src/rplidar_ros
+	url = https://github.com/Slamtec/rplidar_ros.git
+[submodule "src/wpr_simulation"]
+	path = src/wpr_simulation
+	url = https://github.com/6-robot/wpr_simulation.git
+[submodule "src/wpb_home"]
+	path = src/wpb_home
+	url = https://github.com/6-robot/wpb_home.git
+[submodule "src/waterplus_map_tools"]
+	path = src/waterplus_map_tools
+	url = https://github.com/6-robot/waterplus_map_tools.git
