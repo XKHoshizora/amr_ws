@@ -28,3 +28,6 @@
 [submodule "src/om_modbus_master"]
 	path = src/om_modbus_master
 	url = https://github.com/XKHoshizora/om_modbus_master.git
+[submodule "src/amr_launcher"]
+	path = src/amr_launcher
+	url = https://github.com/XKHoshizora/amr_launcher.git
