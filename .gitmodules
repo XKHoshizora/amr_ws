@@ -22,3 +22,6 @@
 [submodule "src/waterplus_map_tools"]
 	path = src/waterplus_map_tools
 	url = https://github.com/6-robot/waterplus_map_tools.git
+[submodule "src/amr_controller"]
+	path = src/amr_controller
+	url = https://github.com/XKHoshizora/amr_controller.git
