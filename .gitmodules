@@ -31,3 +31,6 @@
 [submodule "src/amr_launcher"]
 	path = src/amr_launcher
 	url = https://github.com/XKHoshizora/amr_launcher.git
+[submodule "src/amr_description"]
+	path = src/amr_description
+	url = https://github.com/XKHoshizora/amr_description.git
