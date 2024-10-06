@@ -34,3 +34,6 @@
 [submodule "src/amr_description"]
 	path = src/amr_description
 	url = https://github.com/XKHoshizora/amr_description.git
+[submodule "src/amr_laser_filters"]
+	path = src/amr_laser_filters
+	url = https://github.com/XKHoshizora/amr_laser_filters.git
