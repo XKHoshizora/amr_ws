@@ -1,6 +1,3 @@
-[submodule "src/amr_imu"]
-	path = src/amr_imu
-	url = https://github.com/XKHoshizora/amr_imu.git
 [submodule "src/amr_map"]
 	path = src/amr_map
 	url = https://github.com/XKHoshizora/amr_map.git
