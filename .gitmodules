@@ -34,3 +34,6 @@
 [submodule "src/amr_laser_filters"]
 	path = src/amr_laser_filters
 	url = https://github.com/XKHoshizora/amr_laser_filters.git
+[submodule "src/jie_ware"]
+	path = src/jie_ware
+	url = https://github.com/6-robot/jie_ware.git
