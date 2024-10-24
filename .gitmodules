@@ -40,3 +40,6 @@
 [submodule "src/amr_imu_filters"]
 	path = src/amr_imu_filters
 	url = https://github.com/XKHoshizora/amr_imu_filters.git
+[submodule "src/amr_monitor"]
+	path = src/amr_monitor
+	url = https://github.com/XKHoshizora/amr_monitor.git
