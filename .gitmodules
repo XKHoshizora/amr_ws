@@ -37,3 +37,6 @@
 [submodule "src/jie_ware"]
 	path = src/jie_ware
 	url = https://github.com/6-robot/jie_ware.git
+[submodule "src/amr_imu_filters"]
+	path = src/amr_imu_filters
+	url = https://github.com/XKHoshizora/amr_imu_filters.git
