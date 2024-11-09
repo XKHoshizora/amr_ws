@@ -43,3 +43,6 @@
 [submodule "src/amr_monitor"]
 	path = src/amr_monitor
 	url = https://github.com/XKHoshizora/amr_monitor.git
+[submodule "src/amr_people_tracking"]
+	path = src/amr_people_tracking
+	url = https://github.com/XKHoshizora/amr_people_tracking.git
