@@ -46,3 +46,6 @@
 [submodule "src/amr_people_tracking"]
 	path = src/amr_people_tracking
 	url = https://github.com/XKHoshizora/amr_people_tracking.git
+[submodule "src/amr_lidar_localization"]
+	path = src/amr_lidar_localization
+	url = https://github.com/XKHoshizora/amr_lidar_localization.git
