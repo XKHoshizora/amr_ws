@@ -49,3 +49,6 @@
 [submodule "src/amr_lidar_localization"]
 	path = src/amr_lidar_localization
 	url = https://github.com/XKHoshizora/amr_lidar_localization.git
+[submodule "src/amr_map_tools"]
+	path = src/amr_map_tools
+	url = https://github.com/XKHoshizora/amr_map_tools.git
