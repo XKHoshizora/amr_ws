@@ -58,3 +58,6 @@
 [submodule "src/amr_nova"]
 	path = src/amr_nova
 	url = https://github.com/XKHoshizora/amr_nova.git
+[submodule "src/prohibition_areas_plugin"]
+	path = src/prohibition_areas_plugin
+	url = https://github.com/XKHoshizora/prohibition_areas_plugin.git
