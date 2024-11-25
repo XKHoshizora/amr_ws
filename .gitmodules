@@ -55,3 +55,6 @@
 [submodule "src/wp_nav_controller"]
 	path = src/wp_nav_controller
 	url = https://github.com/XKHoshizora/wp_nav_controller.git
+[submodule "src/amr_nova"]
+	path = src/amr_nova
+	url = https://github.com/XKHoshizora/amr_nova.git
