@@ -1,0 +1,1 @@
+Copy the om_controller.rules and rplidar.rules files to this directory: /etc/udev/rules.d
