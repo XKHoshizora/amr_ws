@@ -58,3 +58,6 @@
 [submodule "src/prohibition_areas_plugin"]
 	path = src/prohibition_areas_plugin
 	url = https://github.com/XKHoshizora/prohibition_areas_plugin.git
+[submodule "src/amr_waypoint_tools"]
+	path = src/amr_waypoint_tools
+	url = https://github.com/XKHoshizora/amr_waypoint_tools.git
