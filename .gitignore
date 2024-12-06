@@ -45,3 +45,7 @@ build/
 
 # macOS specific
 .DS_Store
+
+# draw.io temporary files
+.$AMR Project.drawio.bkp
+.$AMR Project.drawio.dtmp
