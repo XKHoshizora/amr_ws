@@ -58,3 +58,6 @@
 [submodule "src/amr_waypoint_tools"]
 	path = src/amr_waypoint_tools
 	url = https://github.com/XKHoshizora/amr_waypoint_tools.git
+[submodule "src/audio_compass"]
+	path = src/audio_compass
+	url = https://github.com/XKHoshizora/audio_compass.git
