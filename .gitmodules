@@ -61,3 +61,6 @@
 [submodule "src/audio_compass"]
 	path = src/audio_compass
 	url = https://github.com/XKHoshizora/audio_compass.git
+[submodule "src/direction_indicator"]
+	path = src/direction_indicator
+	url = https://github.com/XKHoshizora/direction_indicator.git
