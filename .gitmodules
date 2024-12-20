@@ -64,3 +64,6 @@
 [submodule "src/direction_indicator"]
 	path = src/direction_indicator
 	url = https://github.com/XKHoshizora/direction_indicator.git
+[submodule "src/hoshi_planner"]
+	path = src/hoshi_planner
+	url = https://github.com/XKHoshizora/hoshi_planner.git
